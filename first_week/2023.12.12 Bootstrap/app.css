@@ -1,0 +1,59 @@
+html,
+body {
+  height: 100%;
+  color: black !important;
+  background-color: #f1f1f1 !important;
+}
+
+#row1 {
+  background-color: #f1f1f1;
+  margin: 0;
+  padding: 0;
+  height: fit-content;
+  text-align: center;
+}
+
+#error {
+  width: 100%;
+}
+
+.center {
+  margin: auto;
+  width: fit-content;
+  border: 1px green;
+  padding: 10px;
+}
+
+#row2 {
+  width: 100%;
+}
+
+input {
+  width: 100%;
+}
+
+#ct {
+  justify-content: end;
+}
+
+.input-group-append {
+  width: fit-content;
+  text-align: end;
+  justify-content: end;
+}
+
+.btn-check:checked + .btn {
+  background-color: black; /* Change to your desired background color */
+  color: #fff; /* Change to your desired text color */
+}
+
+#general {
+  border: ;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.192);
+  width: 600px;
+  background-color: #fff;
+  height: auto;
+  margin-top: 150px;
+  padding: 50px;
+  border-radius: 10px;
+}
