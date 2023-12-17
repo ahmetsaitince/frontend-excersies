@@ -31,3 +31,9 @@ const listItems = document.querySelectorAll('.items li');
 listItems.forEach((item) => {
   item.style.color = 'red';
 });
+
+// querySelector().parent element;
+// querySelector().nextElementSibling;
+// querySelector().previousElementSibling;
+
+// Nodes
